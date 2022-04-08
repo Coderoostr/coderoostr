@@ -1,0 +1,13 @@
+{
+  "name": "coderoostr",
+  "version": "0.1",
+  "description": "Marcos Gonzalez - Software Developer (in progress).",
+  "author": "Marcos Gonzalez",
+  "main": "./index.json",
+  "bin": "./index.js",
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
