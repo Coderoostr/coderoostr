@@ -6,10 +6,9 @@ https://coderoostr.com/
 
 ------
 
-<hr />
 
 <p align="center" style="font-size: 10em">
-  REACH ME AT
+  Mis redes:
 </p>
 <p align="center">
   <a href="https://twitter.com/Coderoostr"><img src="https://img.shields.io/twitter/follow/Coderoostr?style=social" width="40" height="40"/></a>
