@@ -8,7 +8,7 @@ https://coderoostr.com/
 
 
 <p align="center" style="font-size: 10em">
-  Mis redes:
+  Follow me:
 </p>
 <p align="center">
   <a href="https://twitter.com/Coderoostr"><img src="https://img.shields.io/twitter/follow/Coderoostr?style=social" height="25"/></a>
