@@ -12,5 +12,5 @@ https://coderoostr.com/
 [![GitHub Coderoostr](https://img.shields.io/github/followers/Coderoostr?label=follow&style=social)](https://github.com/CodeRoostr)
 
 ```bash
-npx Coderoostr
+npx CodeRoostr
 ```
