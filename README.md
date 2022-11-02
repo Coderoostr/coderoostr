@@ -1,7 +1,7 @@
 # Hello there! My name is Marcos, Marcos Gonzalez (CodeRoostr)
 
 <p align="center" style="font-size: 10em">
-  Follow me:
+  Let's connect!
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/Coderoostr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/480px-LinkedIn_icon.svg.png" alt="LinkedIn" width="50" /></a>
