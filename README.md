@@ -1,19 +1,13 @@
 # Hello that! My name is Marcos, Marcos Gonzalez (CodeRoostr)
 
-In a few moments you will have in this area my information :D
-
-https://coderoostr.com/
-
-------
-
 
 <p align="center" style="font-size: 10em">
   Follow me:
 </p>
 <p align="center">
-  <a href="https://twitter.com/Coderoostr"><img src="https://img.shields.io/twitter/follow/Coderoostr?style=social" height="25"/></a>
-  <a href="https://www.linkedin.com/in/coderoostr/"><img src="https://img.shields.io/badge/coderoostr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderoostr/" height="25"/></a>
-  <a href="https://github.com/Coderoostr"><img src="https://img.shields.io/github/followers/Coderoostr?label=follow&style=social" height="25"/></a>
+<a href="https://linkedin.com/in/Coderoostr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/480px-LinkedIn_icon.svg.png" alt="LinkedIn" width="55" /></a>
+<a href="https://twitter.com/Coderoostr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" alt="Twitter" width="55" /></a>
+<a href="https://github.com/Coderoostr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="55" /></a>
 </p>
 
 ```bash
