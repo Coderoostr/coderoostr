@@ -1,4 +1,4 @@
-# Hello there! My name is Marcos, Marcos Gonzalez (CodeRoostr)
+# Hello there! My name is Marcos, Marcos Gonzalez (Coderoostr)
 
 <p align="center" style="font-size: 10em">
   Let's connect!
