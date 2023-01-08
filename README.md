@@ -10,5 +10,5 @@
 </p>
 
 ```bash
-npx CodeRoostr
+npx Coderoostr
 ```
